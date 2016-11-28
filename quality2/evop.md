@@ -1,0 +1,5 @@
+Evolutionary Operation (EVOP) is a manufacturing process-optimization technique developed in the 1950s by George E. P. Box.[1]
+
+In EVOP experimental designs and improvements are introduced, while an ongoing full-scale manufacturing process continues to produce satisfactory results. The idea is that process improvement should not interrupt production.
+
+EVOP is a process or technique of systematic experimentation. Evolutionary Operation (EVOP) is based on the understanding that every production lot has the ability to contribute valuable information on the effect of process variables on a particular product characteristic or feature. Typical methods used involve structured designs of experiments (DOE) which may result in interrupting production flow to conduct the trials or experiments. EVOP, on the other hand, is intended to introduce small changes in the process variables during normal production flow. These changes are not large enough to result in non-conforming product, but are significant enough to determine the optimum process ranges.

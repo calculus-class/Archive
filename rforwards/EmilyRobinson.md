@@ -6,6 +6,8 @@ We got the chance to interview Emily Robinson, who recently became a data analys
 Emily Robinson
 Emily Robinson
 
+![Emily Robinson](figures/portrait.png)
+
 
 ***Hi, Emily! Thanks for letting us interview you! You studied  Decision Sciences at Rice University and then graduated from INSEAD with a Master’s degree in Management (specialization in Organizational Behavior)… What are those fields? How do they help you today?***
 

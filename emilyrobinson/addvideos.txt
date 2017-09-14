@@ -1,0 +1,34 @@
+
+Boxplot Outliers : Worked Example https://www.youtube.com/edit?o=U&video_id=WcxqJUCL5zo
+
+
+Mutually Exclusive Events (Probability) https://www.youtube.com/edit?o=U&video_id=jUgl-5FogRE
+Conditional Probability (Worked Example) https://youtu.be/JxTPp1Kokbo
+Expected Value of a Random Variable https://www.youtube.com/edit?o=U&video_id=Rid6eXtNazg
+
+
+Binomial Probability Distribution (MA4102 2013) https://youtu.be/MzawM7ZYa8I
+
+
+Unifrom Distribution -  https://youtu.be/0l2hy1-KDqw
+Exponential Distribution ( MA4102 ) - https://youtu.be/GbaV1FLuDoM
+
+
+Normal Distribution: Using Murdoch Barnes Table 3   https://youtu.be/BzuPrrlDROc
+Normal Distribution - Arab Horses Example (Part 1)  https://www.youtube.com/edit?o=U&video_id=3hXqcYijiDw
+Normal Distribution - Arab Horses example (Part 2)  https://www.youtube.com/edit?o=U&video_id=G6tz5ad_ciM
+Normal Distribution - Worked Example (Part 1) https://youtu.be/c8BcT8ZRHz4
+Normal Distribution - Worked Example (Part 2) https://youtu.be/W9RSo8uDiqg
+
+
+Computing Confidence Intervals (part 1) 	https://www.youtube.com/edit?o=U&video_id=uJax_lgu9JU
+Confidence Interval 	https://youtu.be/AS2eaapq8AQ
+
+
+Confidence Interval for the Mean - Simple Example https://youtu.be/WddgkHxRWfs
+
+
+One Sample Hypothesis Test(small sample t-test ) https://youtu.be/8lFaOQYj0bk
+
+
+Basic Statistics Definitions : Type I and Type II Error  https://www.youtube.com/edit?o=U&video_id=RxNuqXB9h-w

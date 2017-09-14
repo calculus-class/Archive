@@ -67,9 +67,8 @@
 
 <span style="text-decoration:underline;"><strong>This Weeks Topics</strong></span>
 
-<ul>    <li><b>For the sake of brevity, these topics might get omitted</b> </li>
-        <li>We will introduce Bivariate Analysis of Data </li>
-	<li>We will look at the Chi-Square Test of Association.</li>
+<ul>
+	<li>In Lectures, we looked at the Chi-Square Test of Association.</li>
 	<li>We went over some "Exploratory Data Analysis" topics in tutorials.</li>
 </ul>
 
@@ -83,6 +82,8 @@
 
 	    
 
+
+	   
 	   <span style="text-decoration:underline;"><strong>Chi Square Test</strong></span>
 
 <ul>    <li>Computing the Chi-Square Test Statistic - <a href="https://youtu.be/O5ds4O8K8rQ">HERE</a>. </li>
